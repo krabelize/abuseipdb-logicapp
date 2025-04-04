@@ -5,7 +5,7 @@ AbuseIPDB API for Azure Logic App Sentinel SOAR automation
 Use the schema in this repository for the Logic App "Parse JSON" action.
 
 # Screenshot
-![screen2](https://cryptsus.com/blog/icmp-reverse-shell-windows.jpg)
+![screen2](https://github.com/krabelize/abuseipdb-logicapp/blob/main/abuseipdb-logicapp-sentinel-soar.png)
 
 # License
 Berkeley Software Distribution (BSD)
