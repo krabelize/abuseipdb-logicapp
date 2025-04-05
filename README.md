@@ -1,6 +1,8 @@
 # AbuseIPDB Logic App
 AbuseIPDB API for Azure Logic App Sentinel SOAR automation
 
+More info in this blog post: https://cryptsus.com/blog/sentinel-siem-abuseipdb-logic-app-soar.html
+
 # JSON Schema
 Use the schema in this repository for the Logic App "Parse JSON" action.
 
