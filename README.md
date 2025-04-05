@@ -7,7 +7,7 @@ More info in this blog post: https://cryptsus.com/blog/sentinel-siem-abuseipdb-l
 Use the schema in this repository for the Logic App "Parse JSON" action.
 
 # Screenshot
-![screen2](https://github.com/krabelize/abuseipdb-logicapp/blob/main/abuseipdb-logicapp.png)
+![screen1](https://github.com/krabelize/abuseipdb-logicapp/blob/main/abuseipdb-logicapp.png)
 
 # License
 Berkeley Software Distribution (BSD)
