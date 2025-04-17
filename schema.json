@@ -35,10 +35,16 @@
                     ]
                 },
                 "isp": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "domain": {
-                    "type": "string"
+                    "type": [
+                        "string",
+                        "null"
+                    ]
                 },
                 "hostnames": {
                     "type": "array",
